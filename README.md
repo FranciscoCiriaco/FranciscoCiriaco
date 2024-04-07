@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Francisco Ciriaco 😁
 
  <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCiriaco&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCiriaco&layout=compact)
 
 </div>
    <a href="https://github.com/FranciscoCiriaco">
