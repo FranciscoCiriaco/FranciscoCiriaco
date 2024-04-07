@@ -2,6 +2,7 @@
 
  <div>
 (https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCiriaco&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCiriaco&layout=compact" alt="Linguagens mais usadas">
 
 </div>
    <a href="https://github.com/FranciscoCiriaco">
