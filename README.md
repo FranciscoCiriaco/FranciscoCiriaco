@@ -17,7 +17,6 @@
 </div>
  <img alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-<img alt="C++" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg">
 
 <img alt="C#" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
